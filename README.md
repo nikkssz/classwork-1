@@ -23,16 +23,15 @@
         <li>Inserted a picture</li>
         <li>Inserted a link</li>
     </ol>
-
-    <table border="1">
+<table border "1">
         <tr>
             <th>Actor</th>
             <th>Movie</th>
         </tr>
-        <tr>
+         <tr>
             <td>Ryan Gosling</td>
             <td>Barbie</td>
-        </tr>    
+        </tr> 
         <tr>
             <td>Tom Cruise</td>
             <td>Top Gun</td>
