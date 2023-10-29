@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inline Styles</title>
+    <style>
+    
+        p {
+            color: blue;
+            font-weight: bold;
+        }
+
+
+        .highlight {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>I like pizza</h1>
+    <p>I really like pizza</p>
+    <p class="highlight">I ate pizza today</p>
+</body>
+</html>
