@@ -3,7 +3,7 @@
 <head>
     <title>Inline Styles</title>
     <style>
-        p {
+        p{
             color: blue;
             font-weight: bold;
         }
