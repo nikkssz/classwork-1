@@ -3,13 +3,10 @@
 <head>
     <title>Inline Styles</title>
     <style>
-    
         p {
             color: blue;
             font-weight: bold;
         }
-
-
         .highlight {
             background-color: yellow;
         }
